@@ -4,7 +4,7 @@ Use Xampp/Termux <br>
 pkg update && upgrade <br> 
 pkg install git <br> 
 pkg install php <br> 
-git clone https://github.com/zeldriss/BomSmsShopee.git <br>
+git clone https://github.com/zeldriss/BomShopie.git <br>
 cd bomsms <br>
 
 # Run
